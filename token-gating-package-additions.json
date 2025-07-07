@@ -1,0 +1,10 @@
+{
+  "dependencies_to_add": {
+    "ethers": "^5.7.0",
+    "@walletconnect/web3-provider": "^1.8.0"
+  },
+  "devDependencies_to_add": {
+    "@types/ethers": "^5.7.0"
+  },
+  "note": "Add these dependencies to your package.json file"
+}
